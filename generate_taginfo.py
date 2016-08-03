@@ -12,7 +12,7 @@ class tag_usage():
 
 
 taginfo = {
-    "data_format": "1",
+    "data_format": 1,
     "project": {
         "name": "osm2pgsql defaults",
         "description": "Default osm2pgsql C transforms",
